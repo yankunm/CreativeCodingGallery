@@ -6,8 +6,6 @@ This repo contains all digital artworks I created primarily using ***p5.js* in s
 
 *Note: This gallery started in Fall 2023 is constantly being updated*
 
-## Instructions
-
 ## Contents
 
 ### [1. Drawing Tool](01-drawing-tool)
