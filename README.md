@@ -10,17 +10,28 @@ This repo contains all digital artworks I created primarily using ***p5.js* in s
 
 ### [1. Drawing Tool](01-drawing-tool)
 
+A fun and interactive console-guided drawing tool where you can create!
+
 [Online Sketch Link](https://editor.p5js.org/alex.meng/sketches/C_vdzdw1Q)
 
 ![Drawing Tool Demo Gif](assets/drawing_tool.gif)
 
-
-
 ### [2. Basic Geometry Self-Portrait](02-self-portrait) 
+
+Piecing together basic geometries in p5.js to create me.
 
 [Online Sketch Link](https://editor.p5js.org/alex.meng/sketches/iptp2hApX)
 
 ![Self Portrait Smiling guy](assets/geometry_portrait.png)
+
+### 3. Rhythm
+
+Using Loops and conditionals to create a rhythmic a path into the dark night.
+
+[Online Sketch Link](https://editor.p5js.org/alex.meng/sketches/imYOpOOLV)
+
+![A Rhythmic drawing of the night sky](assets/rhythm.gif)
+
 
 
 
